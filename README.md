@@ -10,4 +10,4 @@ I partner closely with engineering leadership to ensure platforms meet regulator
 
 In parallel, I lead the Amsterdam site, with responsibility for people management and day-to-day operations. My focus is keeping local execution aligned with the broader engineering strategy.
 
-My technical interests include backend architecture, distributed systems, Scala, Rust, and open source.
+Scala remains at the center of my technical interests, especially where strong abstractions help make complex backend and distributed systems easier to reason about.
