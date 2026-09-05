@@ -4,10 +4,10 @@
 
 Backend Domain Architect · Amsterdam Site Manager
 
-I provide backend architectural leadership across the engineering organization—defining standards, guiding long-term technical direction, and supporting teams with complex system design, scalability, security, and compliance.
+I shape backend architecture and technical direction across the engineering organization at Evolution, connecting business priorities with platform decisions and engineering standards. My work spans scalability, reliability, security, and regulatory requirements, with a focus on building systems that support the business as it grows.
 
-I partner closely with engineering leadership to ensure platforms meet regulatory, reliability, and risk requirements.
+I work closely with engineering leadership and teams to balance immediate delivery needs with the longer view: where to invest, what to simplify, and how to make sound technical decisions across teams.
 
-In parallel, I lead the Amsterdam site, with responsibility for people management and day-to-day operations. My focus is keeping local execution aligned with the broader engineering strategy.
+Alongside this, I lead our Amsterdam site, with responsibility for people management and daily operations, keeping team development and delivery connected to the broader engineering strategy.
 
-Scala remains at the center of my technical interests, especially where strong abstractions help make complex backend and distributed systems easier to reason about.
+I stay close to system design and code, particularly in Scala and distributed systems. I value clear abstractions and practical engineering that make complex platforms easier to understand, operate, and evolve.
