@@ -10,4 +10,4 @@ I work closely with engineering leadership and teams to balance immediate delive
 
 Alongside this, I lead our Amsterdam site, with responsibility for people management and daily operations, keeping team development and delivery connected to the broader engineering strategy.
 
-I stay close to system design and code, particularly in Scala and distributed systems. I value clear abstractions and practical engineering that make complex platforms easier to understand, operate, and evolve.
+I stay close to system design and code, particularly in [Scala](https://www.scala-lang.org/) and distributed systems. I value clear abstractions and practical engineering that make complex platforms easier to understand, operate, and evolve.
